@@ -1,0 +1,29 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.pytest_cache/
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# IDE
+.vscode/
+.idea/
+
+# Local outputs
+outputs/
+debug_logs/
+camera_test_*.jpg
+session_*.avi
+
+# Large or device-specific artifacts
+*.pt
+calib.npz
+
+# OS
+Thumbs.db
+.DS_Store

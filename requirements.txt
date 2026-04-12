@@ -1,0 +1,10 @@
+# Core dependencies
+numpy
+opencv-python
+ultralytics
+pymavlink
+pyserial
+
+# Optional / platform-specific
+# Install on Raspberry Pi when running the full hardware pipeline.
+# RPi.GPIO
